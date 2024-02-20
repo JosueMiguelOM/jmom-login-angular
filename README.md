@@ -1,4 +1,4 @@
-# JMOM Logijn
+# JMOM Login
 Proyecto de una pagina de login y registro basico.
 <br>
 Herramientas utilizadas:
